@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stair
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Sword
+  - Item
+  - Stair
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3202112135
+    locked: 0
+  - name: Ground
+    uniqueID: 2568512515
+    locked: 0
+  - name: Stair
+    uniqueID: 3424824379
+    locked: 0
+  - name: Checkpoint
+    uniqueID: 1658053197
+    locked: 0
+  - name: Item
+    uniqueID: 3681682943
+    locked: 0
+  - name: Enemy
+    uniqueID: 951874291
+    locked: 0
+  - name: Player
+    uniqueID: 3852131871
+    locked: 0
+  - name: FX
+    uniqueID: 1720390657
+    locked: 0

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38df318a27223394fbfa9767111b3bb0, type: 3}
+  m_Name: True Ice Armor
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: True Ice Armor
+  itemIcon: {fileID: -1871269579, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemId: 5ea610613fa0abd46925af55977621e2
+  dropChance: 16.7
+  equipmentType: 1
+  itemCooldown: 3
+  itemEffects:
+  - {fileID: 11400000, guid: 41053e527d59bf5408d025eee4c7992f, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armor: 15
+  evasion: 0
+  magicResistance: 5
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: b90178521652c314a8ed166952647305, type: 2}
+    stackSize: 25
+  - data: {fileID: 11400000, guid: 2fcbbdd7eaaa37f4993bdd58fc285803, type: 2}
+    stackSize: 15
+  - data: {fileID: 11400000, guid: 5182174056a21074fbd9157226bc1a05, type: 2}
+    stackSize: 20
+  - data: {fileID: 11400000, guid: 18e608736813a3b428e1cd1d8c7ffef2, type: 2}
+    stackSize: 10
